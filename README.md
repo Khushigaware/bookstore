@@ -1,6 +1,7 @@
 Online Bookstore 
 
-Technologies-
+Technologies Used - 
+
 Fronted - HTML,CSS, Javascript
 Backend- Php 
 Database-SQL 
